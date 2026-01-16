@@ -1,0 +1,8 @@
+{
+  "name": "Nashville Breakfast @ AASA 2026",
+  "description": "A premium landing page for the AASA Conference breakfast event in Nashville, featuring a registration system for the University Instructors Leadership Team, interactive walking maps, and an AI-powered image editor.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
